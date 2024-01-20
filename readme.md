@@ -4,6 +4,12 @@
 #### The filter() method is an iterative method, which allows you to filter an array to see elements that only meets a certain condition.It calls a callback function once for each element in an array and then creates a new array, or “shallow copy’ of the original array.
 
 ## Algorithm Description
+
+### Parameters
+#### 1. Element: the current element being processed in the array.
+#### 2. Index:  The index of the current element being processed in the array by the callback function.
+#### 3. Array object: the array that filter() was called upon.
+
 ![filter](./1_c-h6stlbIZX50KcrbWKwTQ_filter%20function%20IMAGE.webp)
 #### 1. Define the array with elements
 ```
