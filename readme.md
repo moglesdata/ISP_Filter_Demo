@@ -6,9 +6,23 @@
 ## Algorithm Description
 ![filter](./1_c-h6stlbIZX50KcrbWKwTQ_filter%20function%20IMAGE.webp)
 #### 1. Define the array with elements
+```
+const month
+```
+
 #### 2. Call the filter() method on the array
+```
+const newArray = month.filter
+```
+
 #### 3.  Pass the function that will test each element  of the array.
+```
+const newArray = month.filter(month => month.length > 5);
+```
 #### 4. Assign the new filtered array to a new variable
+```
+console.log(newArray);
+```
 
 ## Big O Notation
 ### Time Complexity
@@ -30,3 +44,4 @@
 #### 2. https://flexiple.com/javascript/javascript-filter-array
 #### 3. https://debbie.codes/blog/js-array-filter-method/
 #### 4. https://www.shiksha.com/online-courses/articles/how-to-use-javascript-array-filter/
+#### 5. https://javascript.plainenglish.io/filtering-elements-in-javascript-array-1adc9472d1fd

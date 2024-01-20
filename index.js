@@ -7,13 +7,13 @@ const month = ["January", "February", "March", "April",
 // Call function on new array using arrow function.//
 const newArray = month.filter(month => month.length > 5);
 
-// Display filtered array//
+//Display filtered array//
 console.log(newArray);
 //output expected: newArray =  "January", "February", "August", "September", "October", "November", "December"//
 
 
 //#2
-// Original array of objects
+//Original array of objects
 const students = [
     {status: "freshman", name: "John"}, 
     {status: "freshman", name: "Lisa"},
