@@ -12,10 +12,10 @@
 
 ## Big O Notation
 ### Time Complexity
-#### Time complexity for the filter() is O(n).
+#### Time complexity for the filter() is O(n).  It iterates over the whole array.
 
 ### Space Complexity
-#### Space complexity for the filter() is O(n).
+#### Space complexity for the filter() is O(n), iterating over the whole array.
 
 ## Use Cases
 #### It can be used to filter through lists of items on a website based on a specified criteria. When used, it prevents duplicate items from being listed.
